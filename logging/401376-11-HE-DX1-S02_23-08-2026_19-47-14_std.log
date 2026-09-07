@@ -1,0 +1,5 @@
+2026-08-23 19:47:14,001 - root - INFO - Processing 401376-11-HE-DX1-S02 ...
+2026-08-23 19:47:18,126 - root - INFO - Preparing Input Output Placement: 4.124208689085208
+2026-08-23 20:01:54,562 - root - INFO - Inference Time: 876.4365717709297
+2026-08-23 20:38:12,262 - root - INFO - Nuclei Post Proc Time: 2177.6494542500004
+2026-08-23 20:38:32,584 - root - INFO - Tissue Region Post Proc Time: 20.320948862936348
